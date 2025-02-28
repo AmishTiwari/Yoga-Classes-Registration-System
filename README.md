@@ -4,4 +4,4 @@ Technologies used :
 Frontend: HTML, CSS, JavaScript (Bootstrap for styling)
 Backend: PHP
 Database: MySQL
-Security: Password hashing using password_hash() and password_verify()
+
